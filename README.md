@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pensee like Pen-say!</h1>
 <h3 align="center">A passionate frontend developer and lifelong learner from USA. Origin Egypt</h3>
+![code](https://user-images.githubusercontent.com/61799444/150917695-1728a4e2-c100-4a38-b5c4-4bed514f990d.gif)
+
 
 - 📫 How to reach me **pensee@mail.com**
-![code](https://user-images.githubusercontent.com/61799444/150917695-1728a4e2-c100-4a38-b5c4-4bed514f990d.gif)
 
 - ⚡ Fun fact **I love creativity**
 
