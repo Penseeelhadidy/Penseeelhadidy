@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pensee like Pen-say!</h1>
 <h3 align="center">A passionate frontend developer and lifelong learner from USA. Origin Egypt</h3>
-<img src="https://dribbble.com/chipp/collections/572323-coding-gifs">
+<img src="https://dribbble.com/chipp/collections/572323-coding-gifs"> alt="alternatetext">
 
 - 📫 How to reach me **pensee@mail.com**
 
