@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available [https://github.com/Penseeelhadidy](https://github.com/Penseeelhadidy)
 
-- 📫 How to reach me **pensee@mail.com**
+- 📫 How to reach me ** primary email: penseeelhadidy@gmail.com secondary email: pensee@mail.com**
 
 - ⚡ Fun fact **I love creativity**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: penseeelhadidy@gmail.com</h3>
 <p align="left">
 </p>
 
